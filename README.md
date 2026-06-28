@@ -73,7 +73,29 @@ Aspiring Data Engineer | Python | SQL | AWS | Snowflake | dbt | Airflow
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=syedsaud15&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+## 📫 Connect With Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
+  <a href="mailto:syedsaud15@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| ☁️ AWS Data Engineering | AWS hands-on projects and cloud services |
+| ❄️ Snowflake | Data warehouse projects using Snowflake |
+| 🔄 dbt | Data transformation using dbt |
+| 🌬️ Airflow | Workflow orchestration and scheduling |
+| 🏏 Cricket World Cup JSON | End-to-end JSON data analysis project |
 ## 📫 Connect With Me
 
 <p align="center">
