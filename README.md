@@ -61,3 +61,9 @@ Aspiring Data Engineer | Python | SQL | AWS | Snowflake | dbt | Airflow
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedsaud15&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=syedsaud15&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
