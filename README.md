@@ -73,3 +73,15 @@ Aspiring Data Engineer | Python | SQL | AWS | Snowflake | dbt | Airflow
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=syedsaud15&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="mailto:syedsaud15@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
