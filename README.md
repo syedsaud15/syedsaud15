@@ -48,6 +48,12 @@ Aspiring Data Engineer | Python | SQL | AWS | Snowflake | dbt | Airflow
 ## 📊 GitHub Stats
 
 <p align="center">
+
+  ## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=syedsaud15&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
   <img src="https://github-readme-stats.vercel.app/api?username=syedsaud15&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://streak-stats.demolab.com?user=syedsaud15&theme=tokyonight&hide_border=true" height="170"/>
 </p>
