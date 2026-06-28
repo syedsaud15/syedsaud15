@@ -18,3 +18,29 @@ Aspiring Data Engineer | Python | SQL | AWS | Snowflake | dbt | Airflow
 - 🚀 Building real-world data engineering projects
 - 📫 Reach me: **syedsaud15@gmail.com**
 - ⚡ Fun Fact: I enjoy learning new technologies and solving data problems.
+
+- ## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,aws,git,github,vscode,linux" />
+
+</p>
+
+<p align="center">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=snowflake,airflow" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+
+</p>
