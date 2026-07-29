@@ -23,10 +23,46 @@
 role: Data Engineer
 focus: [ETL/ELT Pipelines, Lakehouse Architecture, Cloud Data Warehousing, Workflow Orchestration]
 mission: "Turn messy, raw data into reliable, business-ready platforms"
-currently_exploring: "[ADD: e.g. real-time streaming with Kafka]"
+open_to: "Data Engineer / Analytics Engineer roles"
 ```
 
 I design and build **end-to-end data platforms** — Bronze → Silver → Gold Lakehouses, automated ELT, and analytics that real businesses use, not just tutorial clones.
+
+<br/>
+
+## 💼 Experience & Education
+
+<table>
+<tr>
+<td width="15%"><b>[ADD Year]</b></td>
+<td>
+<b>[ADD: Job Title / "Data Engineering Intern"]</b> — [ADD Company Name]<br/>
+<sub>[ADD one line on what you built/owned]</sub>
+</td>
+</tr>
+<tr>
+<td width="15%"><b>[ADD Year]</b></td>
+<td>
+<b>[ADD Degree]</b> — [ADD College/University Name]<br/>
+<sub>[ADD relevant coursework or achievement]</sub>
+</td>
+</tr>
+</table>
+
+> ⚠️ If you don't have work experience yet, replace this table with a **"Learning Journey"** timeline instead — e.g. "Started with SQL → moved to PySpark → built first Databricks pipeline." Recruiters respect a clear growth story just as much as job titles.
+
+<br/>
+
+## 📜 Certifications
+
+<div align="center">
+
+[![Databricks](https://img.shields.io/badge/Databricks-Certified_Data_Engineer-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+
+</div>
+
+> ⚠️ Only keep the badges above for certifications you **actually hold** — link each one to your real credential URL. A fake/unearned cert badge is one of the fastest ways to lose credibility in an interview.
 
 <br/>
 
@@ -52,23 +88,25 @@ I design and build **end-to-end data platforms** — Bronze → Silver → Gold 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-
-### 🏭 FMCG Lakehouse Pipeline
-Production-style **Medallion Architecture** on Databricks.
-- **Problem:** `[ADD]`
-- **Impact:** `[ADD real number]`
-- `Databricks` `PySpark` `AWS S3` `SQL`
+<h3>🏭 FMCG Lakehouse Pipeline</h3>
+Production-style <b>Medallion Architecture</b> on Databricks.
+<ul>
+<li><b>Problem:</b> <code>[ADD]</code></li>
+<li><b>Impact:</b> <code>[ADD real number]</code></li>
+<li><code>Databricks</code> <code>PySpark</code> <code>AWS S3</code> <code>SQL</code></li>
+</ul>
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/syedsaud15)
 
 </td>
 <td width="50%" valign="top">
-
-### 🚖 Transportation Analytics
+<h3>🚖 Transportation Analytics</h3>
 Incremental PySpark pipeline → Power BI dashboard.
-- **Problem:** `[ADD]`
-- **Impact:** `[ADD real number]`
-- `PySpark` `Databricks` `SQL` `Power BI`
+<ul>
+<li><b>Problem:</b> <code>[ADD]</code></li>
+<li><b>Impact:</b> <code>[ADD real number]</code></li>
+<li><code>PySpark</code> <code>Databricks</code> <code>SQL</code> <code>Power BI</code></li>
+</ul>
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/syedsaud15)
 
@@ -76,22 +114,24 @@ Incremental PySpark pipeline → Power BI dashboard.
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### ❄️ Snowflake + dbt + Airflow
-Full **Modern Data Stack** ELT implementation.
-- **Problem:** `[ADD]`
-- **Impact:** `[ADD real number]`
-- `Snowflake` `dbt` `Airflow` `Python`
+<h3>❄️ Snowflake + dbt + Airflow</h3>
+Full <b>Modern Data Stack</b> ELT implementation.
+<ul>
+<li><b>Problem:</b> <code>[ADD]</code></li>
+<li><b>Impact:</b> <code>[ADD real number]</code></li>
+<li><code>Snowflake</code> <code>dbt</code> <code>Airflow</code> <code>Python</code></li>
+</ul>
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/syedsaud15/snowflake-projects)
 
 </td>
 <td width="50%" valign="top">
-
-### 📰 RAG Document Chatbot
+<h3>📰 RAG Document Chatbot</h3>
 AI research assistant — RAG + vector search.
-- LangChain + ChromaDB + Gemini + Groq Llama 3.3
-- `Python` `LangChain` `Streamlit`
+<ul>
+<li>LangChain + ChromaDB + Gemini + Groq Llama 3.3</li>
+<li><code>Python</code> <code>LangChain</code> <code>Streamlit</code></li>
+</ul>
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/syedsaud15/RAG-Document-Chatbot)
 
@@ -124,10 +164,24 @@ AI research assistant — RAG + vector search.
 <img src="https://raw.githubusercontent.com/syedsaud15/syedsaud15/output/github-contribution-grid-snake.svg" />
 </div>
 
-> ⚙️ *This snake animates automatically once you add the GitHub Action below (one-time setup, ~2 minutes).*
+> ⚙️ Needs a one-time GitHub Action setup (given below) — until then this line will show a broken image, that's expected, not a bug.
+
+<br/>
+
+## ✍️ Currently Learning / Building
+
+- `[ADD: e.g. "Real-time streaming with Kafka + Spark Structured Streaming"]`
+- `[ADD: e.g. "System design for data platforms"]`
 
 <br/>
 
 <div align="center">
+
+### 📬 Open to Data Engineering roles — let's connect!
+
+<a href="mailto:saudhere15@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/syed-saud-alam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer"/>
+
 </div>
