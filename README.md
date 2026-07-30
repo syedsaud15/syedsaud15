@@ -1,68 +1,54 @@
-<div align="center">
+# Hi there 👋, I'm Syed Saud
 
-# ⚡ Syed Saud Alam ⚡
-### **Data Engineer & AI Systems Architect**
+<img src="https://komarev.com/ghpvc/?username=syedsaud15&label=Profile%20Views&color=0e75b6&style=flat" alt="syedsaud15" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=50&lines=Building+Scalable+Data+Pipelines;Architecting+Intelligent+AI+Systems;Turning+Raw+Data+Into+Production+Value" alt="Typing SVG" />
+### 🚀 About Me
+I am a passionate developer focused on building scalable systems, data pipelines, and intelligent AI applications. I love turning complex problems into clean, efficient, and production-ready code.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-00FF66?style=for-the-badge&logo=statuspage&logoColor=black" />
-  <img src="https://img.shields.io/badge/Core-Data_Engineering_%7C_AI-FF0055?style=for-the-badge&logo=python&logoColor=white" />
+- 🔭 I’m currently working on building advanced data and AI solutions.
+- 👯 I’m looking to collaborate on innovative Open Source projects.
+- 💬 Ask me about Python, Data Engineering, and Machine Learning.
+- 📫 How to reach me: [Your LinkedIn Profile](https://linkedin.com/in/your-username) | [Your Email]
+
+---
+
+### 🧰 Tech Stack & Tools
+
+<p>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  
+  <!-- Data & AI / Backend -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  
+  <!-- Tools & Databases -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-</div>
-
 ---
 
-### 👨‍💻 Professional Background & Expertise
-
-I am a dedicated **Data Engineer & AI Systems Architect** with a strong passion for designing, building, and scaling high-performance data architectures and intelligent machine learning workflows. My core philosophy revolves around bridging the gap between raw, unstructured data and actionable enterprise insights through robust pipeline engineering and modern AI models.
-
-* **Data Engineering:** Designing fault-tolerant ETL/ELT pipelines, real-time data streaming, and managing cloud-native data warehouses.
-* **AI & LLM Architecture:** Integrating advanced retrieval-augmented generation (RAG) systems, vector databases, and LLM-driven applications into production environments.
-* **Performance & Scalability:** Writing clean, modular, and optimized code backed by containerization and automated workflows.
-
----
-
-### 🛠️ Elite Tech Matrix
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,aws,docker,fastapi,postgres,git,linux,bash,redis,elasticsearch&perline=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syedsaud15&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="syedsaud15's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedsaud15&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedsaud15&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🔥 Featured Projects (Production Grade)
-
-<div align="center">
-
-| 🤖 **RAG Document Chatbot** | ☁️ **AWS Data Engineering Pipeline** |
-| :---: | :---: |
-| *Enterprise-grade RAG system powered by LangChain, ChromaDB, Google Gemini & Streamlit.* | *End-to-end cloud data pipeline built using AWS S3, Glue, Athena & automation scripts.* |
-| `Python` `LangChain` `Streamlit` `VectorDB` | `AWS S3` `AWS Glue` `Athena` `Python` |
-| [🔗 Repository](https://github.com/syedsaud15/RAG-Document-Chatbot) | [🔗 Repository](https://github.com/syedsaud15/aws-end-to-end-data-engineering-project) |
-
-| ⚡ **Project 3: Real-Time Stream Processing** | 🧠 **Project 4: LLM-Driven Analytics Engine** |
-| :---: | :---: |
-| *High-throughput data streaming & transformation architecture for massive datasets.* | *Smart analytics layer utilizing LLMs for automated insight generation & reporting.* |
-| `Kafka` `Python` `Docker` `SQL` | `OpenAI/Gemini` `FastAPI` `Pandas` `Docker` |
-| [🔗 Repository](https://github.com/syedsaud15) | [🔗 Repository](https://github.com/syedsaud15) |
-
-</div>
-
----
-
-### 📊 System Telemetry & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedsaud15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedsaud15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedsaud15&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=syedsaud15&label=COMMAND%20CENTER%20VISITS&color=00f0ff&style=for-the-badge" alt="Profile Views" />
-</div>
+### 🔥 Featured Projects
+- **[Project Name 1](https://github.com/syedsaud15/repo-1)**: Brief description of what problem this project solves and tech stack used.
+- **[Project Name 2](https://github.com/syedsaud15/repo-2)**: Brief description of what problem this project solves and tech stack used.
