@@ -1,54 +1,94 @@
-# Hi there 👋, I'm Syed Saud
+# Syed Saud Alam
 
-<img src="https://komarev.com/ghpvc/?username=syedsaud15&label=Profile%20Views&color=0e75b6&style=flat" alt="syedsaud15" />
+### Data Engineer
 
-### 🚀 About Me
-I am a passionate developer focused on building scalable systems, data pipelines, and intelligent AI applications. I love turning complex problems into clean, efficient, and production-ready code.
+Building scalable data platforms, reliable pipelines and production-ready analytics.
 
-- 🔭 I’m currently working on building advanced data and AI solutions.
-- 👯 I’m looking to collaborate on innovative Open Source projects.
-- 💬 Ask me about Python, Data Engineering, and Machine Learning.
-- 📫 How to reach me: [Your LinkedIn Profile](https://linkedin.com/in/your-username) | [Your Email]
+[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-saud-alam/) [![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syedsaud15) [![](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://syedsaud15.github.io/syed-saud-portfolio/) [![](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saudhere15@gmail.com)
 
 ---
 
-### 🧰 Tech Stack & Tools
+## About Me
 
-<p>
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  
-  <!-- Data & AI / Backend -->
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  
-  <!-- Tools & Databases -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+I'm a Data Engineer focused on building modern, scalable and production-ready data solutions.
+
+I enjoy transforming raw and unstructured data into reliable data pipelines using modern data engineering tools and cloud technologies.
+
+My primary interest lies in designing end-to-end ETL pipelines, Lakehouse architectures, workflow automation and analytics that solve real business problems.
 
 ---
 
-### 📊 GitHub Stats
+## Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedsaud15&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="syedsaud15's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedsaud15&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedsaud15&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+- Building End-to-End Data Engineering Projects
+- Apache Spark & PySpark
+- Databricks Lakehouse
+- Snowflake Data Warehouse
+- dbt Transformations
+- Apache Airflow Orchestration
+- AWS Cloud
+- Power BI Analytics
 
 ---
 
-### 🔥 Featured Projects
-- **[Project Name 1](https://github.com/syedsaud15/repo-1)**: Brief description of what problem this project solves and tech stack used.
-- **[Project Name 2](https://github.com/syedsaud15/repo-2)**: Brief description of what problem this project solves and tech stack used.
+## Tech Stack
+
+### Languages
+
+![](https://skillicons.dev/icons?i=python,mysql,bash)
+
+### Data Engineering
+
+![](https://skillicons.dev/icons?i=aws,docker,git,github,vscode)
+
+[![](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](#) [![](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](#) [![](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](#) [![](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](#) [![](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)](#) [![](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](#) [![](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)](#) [![](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#)
+
+---
+
+## Featured Projects
+
+- 🏭 **FMCG Lakehouse Pipeline**
+  Production-style Data Engineering project built using the Medallion Architecture.
+  **Tech:** Databricks, Apache Spark, PySpark, AWS S3, SQL
+  **Highlights:** Bronze, Silver & Gold Layers, ETL Pipeline, Data Transformation, Business Dashboard, Lakehouse Architecture
+
+- 🚖 **Transportation Analytics Platform**
+  Modern analytics solution built on Databricks.
+  **Tech:** PySpark, Databricks, SQL, Power BI
+  **Highlights:** Data Cleaning, Incremental Processing, Business KPIs, Interactive Dashboard, Analytics Pipeline
+
+- 📰 **AI News Research Tool**
+  AI-powered research assistant for analyzing news articles.
+  **Tech:** Python, LangChain, Google Gemini, Streamlit
+  **Highlights:** RAG Pipeline, Document Processing, AI Question Answering, Vector Search
+
+- ❄ **Snowflake + dbt + Airflow Pipeline**
+  Complete Modern Data Stack implementation.
+  **Tech:** Snowflake, dbt, Apache Airflow, SQL, Python
+  **Highlights:** Automated ELT, Data Modeling, Scheduling, Testing, Workflow Automation
+
+---
+
+## GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=syedsaud15&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedsaud15&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## Contribution Activity
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=syedsaud15&theme=github-dark&hide_border=true)
+
+---
+
+## Let's Connect
+
+[![](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saudhere15@gmail.com) [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-saud-alam/) [![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syedsaud15) [![](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://syedsaud15.github.io/syed-saud-portfolio/)
+
+---
+
+### ⭐ Building reliable data platforms, one pipeline at a time.
+
+![](https://komarev.com/ghpvc/?username=syedsaud15&style=for-the-badge&color=blue)
