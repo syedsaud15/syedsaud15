@@ -14,6 +14,16 @@
 
 ---
 
+### 👨‍💻 Professional Background & Expertise
+
+I am a dedicated **Data Engineer & AI Systems Architect** with a strong passion for designing, building, and scaling high-performance data architectures and intelligent machine learning workflows. My core philosophy revolves around bridging the gap between raw, unstructured data and actionable enterprise insights through robust pipeline engineering and modern AI models.
+
+* **Data Engineering:** Designing fault-tolerant ETL/ELT pipelines, real-time data streaming, and managing cloud-native data warehouses.
+* **AI & LLM Architecture:** Integrating advanced retrieval-augmented generation (RAG) systems, vector databases, and LLM-driven applications into production environments.
+* **Performance & Scalability:** Writing clean, modular, and optimized code backed by containerization and automated workflows.
+
+---
+
 ### 🛠️ Elite Tech Matrix
 
 <p align="center">
