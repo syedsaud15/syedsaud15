@@ -572,3 +572,15 @@ Every repository follows:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/syedsaud15/syedsaud15/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</div>
+
+---
