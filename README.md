@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/github-banner.png" width="100%" alt="Syed Saud Banner">
+</p>
+
+<br>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=SYED%20SAUD&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=62&desc=DATA%20ENGINEER%20•%20BIG%20DATA%20•%20CLOUD%20•%20AI&descAlign=50&descAlignY=58&animation=fadeIn"/>
