@@ -48,7 +48,7 @@
 
 ### Hello 👋
 
-I'm **Syed Saud**, an aspiring **Data Engineer** passionate about designing scalable data solutions and transforming raw data into meaningful insights.
+I'm **Syed Saud**, as a **Data Engineer** passionate about designing scalable data solutions and transforming raw data into meaningful insights.
 
 I enjoy working on modern data platforms and continuously improving my skills in distributed computing, cloud technologies, and AI-powered applications.
 
