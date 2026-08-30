@@ -134,6 +134,20 @@ status: Open to Data Engineering / Analytics Engineering roles
 </details>
 
 <details>
+<summary><b>🧱 AWS Medallion Data Pipeline</b></summary>
+<br/>
+
+> End-to-end AWS pipeline built around Medallion (Bronze/Silver/Gold) architecture, with full documentation.
+
+| | |
+|---|---|
+| **Stack** | AWS · SQL · Medallion Architecture |
+| **Highlights** | Layered data quality progression, documented datasets, reproducible pipeline design |
+| **Repo** | [aws-medallion-data-pipeline](https://github.com/syedsaud15/aws-medallion-data-pipeline) |
+
+</details>
+
+<details>
 <summary><b>🤖 RAG Document Chatbot</b></summary>
 <br/>
 
@@ -162,30 +176,30 @@ status: Open to Data Engineering / Analytics Engineering roles
 </details>
 
 <details>
-<summary><b>❄️ Snowflake Data Warehouse Projects</b></summary>
+<summary><b>❄️ Snowflake + dbt Data Engineering</b></summary>
 <br/>
 
-> Data warehousing fundamentals — modeling, loading, and querying at scale on Snowflake.
+> Modern data stack implementation — SQL models, macros and tests on top of a Snowflake warehouse.
 
 | | |
 |---|---|
-| **Stack** | Snowflake · SQL |
-| **Highlights** | Warehouse design, staged data loading, performance-tuned SQL |
-| **Repo** | [snowflake-projects](https://github.com/syedsaud15/snowflake-projects) |
+| **Stack** | Snowflake · dbt · SQL |
+| **Highlights** | dbt models & macros, automated testing, warehouse-native transformations |
+| **Repo** | [snowflake-dbt-data-engineering](https://github.com/syedsaud15/snowflake-dbt-data-engineering) |
 
 </details>
 
 <details>
-<summary><b>🛍️ Luxe Thread E-Commerce Platform</b></summary>
+<summary><b>🏏 Cricket World Cup Data Engineering</b></summary>
 <br/>
 
-> Full-stack e-commerce application, built to understand the application layer that sits on top of the data.
+> 2023 Cricket World Cup dataset modeled and processed as a JSON-based data engineering exercise.
 
 | | |
 |---|---|
-| **Stack** | Next.js · Node.js · Express · REST API |
-| **Highlights** | Product catalog, cart & checkout flow, REST API backend |
-| **Repo** | [luxe-thread-ecommerce](https://github.com/syedsaud15/luxe-thread-ecommerce) |
+| **Stack** | Python · JSON |
+| **Highlights** | Data modeling from semi-structured source, parsing & transformation logic |
+| **Repo** | [cricket-world-cup-json](https://github.com/syedsaud15/cricket-world-cup-json) |
 
 </details>
 
@@ -195,17 +209,12 @@ status: Open to Data Engineering / Analytics Engineering roles
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=syedsaud15&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=syedsaud15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedsaud15&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedsaud15&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-profile-trophy.vercel.app/?username=syedsaud15&theme=tokyonight&no-frame=true&row=1&column=6" height="100"/>
-
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=syedsaud15&theme=tokyo-night&hide_border=true&area=true"/>
-</div>
+> **Note:** Language and trophy widgets were dropped from this version — the third-party services that generate them (vercel/heroku-hosted) go down or time out often enough that they were showing up as broken image icons. Two reliable widgets on a recruiter-facing profile beat five flaky ones.
 
 <br/>
 
