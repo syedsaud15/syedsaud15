@@ -1,104 +1,226 @@
-<h1 align="center">Hi 👋, I'm Syed Saud Alam</h1>
-<h3 align="center">Data Engineer | Building Scalable Data Pipelines & AI-Powered Applications</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/syed-saud-alam/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://syedsaud15.github.io/syed-saud-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:saudhere15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Syed%20Saud%20Alam&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Building%20Scalable%20Data%20Platforms&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
----
+<a href="https://www.linkedin.com/in/syed-saud-alam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://syedsaud15.github.io/syed-saud-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:saudhere15@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=syedsaud15&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS"/>
 
-### 🚀 About Me
+<br/>
 
-I'm a **Data Engineer** passionate about designing **end-to-end ETL/ELT pipelines**, **Lakehouse architectures**, and **cloud-native data platforms** that turn raw, messy data into reliable, production-ready systems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=2C97F1&center=true&vCenter=true&width=650&lines=Designing+end-to-end+ETL%2FELT+pipelines;Building+Lakehouse+architectures+on+Databricks;Orchestrating+workflows+with+Apache+Airflow;Turning+raw+data+into+production-grade+systems"/>
 
-- 🔭 Currently building **end-to-end Data Engineering projects** using modern data stacks
-- ⚡ Focused on **Apache Spark, Databricks Lakehouse, Snowflake, dbt & Airflow**
-- ☁️ Comfortable working across **AWS** cloud services for data pipelines
-- 📊 I also build **AI-powered applications** (RAG pipelines, LLM apps) on the side
-- 🌱 Always leveling up on **workflow orchestration, data modeling & analytics engineering**
+</div>
 
----
+<br/>
 
-### 🛠️ Tech Stack
+## `$ whoami`
 
-**Languages**
+```yaml
+name: Syed Saud Alam
+role: Data Engineer
+focus: [ETL/ELT Pipelines, Lakehouse Architecture, Cloud Data Platforms, Workflow Orchestration]
+currently_building: End-to-end data engineering projects using modern data stack
+interests: [Distributed Data Processing, AI-Powered Data Applications, Analytics Engineering]
+status: Open to Data Engineering / Analytics Engineering roles
+```
 
-<img src="https://skillicons.dev/icons?i=python,mysql,bash" />
+<br/>
 
-**Data Engineering & Cloud**
+## System Overview
 
-<p>
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
-<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+```
+                         ┌───────────────────────────────────────────┐
+                         │              DATA SOURCES                  │
+                         │     APIs · Databases · Files · Streams      │
+                         └───────────────────┬───────────────────────┘
+                                              │
+                     ┌────────────────────────▼────────────────────────┐
+                     │                 INGESTION LAYER                  │
+                     │        AWS S3 · Glue · Python · PySpark          │
+                     └────────────────────────┬────────────────────────┘
+                                              │
+                     ┌────────────────────────▼────────────────────────┐
+                     │             PROCESSING & TRANSFORM               │
+                     │     Apache Spark · Databricks · dbt · SQL         │
+                     └────────────────────────┬────────────────────────┘
+                                              │
+                     ┌────────────────────────▼────────────────────────┐
+                     │              ORCHESTRATION LAYER                 │
+                     │               Apache Airflow                     │
+                     └────────────────────────┬────────────────────────┘
+                                              │
+                     ┌────────────────────────▼────────────────────────┐
+                     │           STORAGE & SERVING (LAKEHOUSE)          │
+                     │        Snowflake · Delta Lake · Athena           │
+                     └────────────────────────┬────────────────────────┘
+                                              │
+                     ┌────────────────────────▼────────────────────────┐
+                     │                ANALYTICS / BI                    │
+                     │                    Power BI                      │
+                     └───────────────────────────────────────────────────┘
+```
 
-**AI / ML Tooling**
+<br/>
 
-<p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-</p>
+## Tech Stack
 
----
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### 💼 Featured Projects
+**Languages & Query**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🏭 **[AWS End-to-End Data Engineering Pipeline](https://github.com/syedsaud15/aws-end-to-end-data-engineering-project)** | Production-style ingestion & transformation pipeline using S3, Glue and Athena | AWS S3, Glue, Athena |
-| 🤖 **[RAG Document Chatbot](https://github.com/syedsaud15/RAG-Document-Chatbot)** | AI-powered RAG chatbot using LangChain, ChromaDB, Gemini Embeddings & Groq Llama 3.3 70B | Python, LangChain, ChromaDB, Streamlit |
-| 📊 **[FMCG Sales Analytics on Databricks](https://github.com/syedsaud15/FMCG-Sales-Analytics-Databricks)** | End-to-end sales analytics dashboard built on Databricks SQL with Genie AI | Databricks, SQL, Dashboards |
-| ❄️ **[Snowflake Data Warehouse Projects](https://github.com/syedsaud15/snowflake-projects)** | Data warehousing and SQL practice projects on Snowflake | Snowflake, SQL |
-| 🛍️ **[Luxe Thread E-commerce](https://github.com/syedsaud15/luxe-thread-ecommerce)** | Full-stack e-commerce web app | Next.js, Node.js, Express, REST API |
+**Processing & Lakehouse**
+<br/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square&logo=delta&logoColor=white"/>
 
-> 📁 More on my [GitHub Repositories](https://github.com/syedsaud15?tab=repositories) and [Portfolio](https://syedsaud15.github.io/syed-saud-portfolio/)
+**Warehousing & Modeling**
+<br/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
 
----
+</td>
+<td valign="top" width="50%">
 
-### 📈 GitHub Analytics
+**Orchestration & Cloud**
+<br/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Athena-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedsaud15&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedsaud15&theme=github-dark&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
+**Analytics & AI Tooling**
+<br/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedsaud15&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165"/>
-</p>
+**Version Control**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedsaud15&theme=github-dark&hide_border=true" alt="Contribution Graph"/>
-</p>
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-### 📫 Let's Connect
+## Featured Builds
 
-<p align="center">
-  <a href="mailto:saudhere15@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/syed-saud-alam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://syedsaud15.github.io/syed-saud-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+<details open>
+<summary><b>🏭 AWS End-to-End Data Engineering Pipeline</b></summary>
+<br/>
 
-<p align="center"><i>⭐ Building reliable data platforms, one pipeline at a time.</i></p>
+> Batch ingestion → transformation → query pipeline on AWS, built to mirror a production data platform.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=syedsaud15&style=for-the-badge&color=blue" alt="Profile Views" />
-</p>
+| | |
+|---|---|
+| **Stack** | AWS S3 · AWS Glue · Athena |
+| **Highlights** | Automated ingestion, schema-on-read cataloging, serverless SQL querying |
+| **Repo** | [aws-end-to-end-data-engineering-project](https://github.com/syedsaud15/aws-end-to-end-data-engineering-project) |
+
+</details>
+
+<details>
+<summary><b>🤖 RAG Document Chatbot</b></summary>
+<br/>
+
+> Retrieval-Augmented Generation chatbot for document Q&A, combining vector search with an LLM.
+
+| | |
+|---|---|
+| **Stack** | Python · LangChain · ChromaDB · Google Gemini Embeddings · Groq Llama 3.3 70B · Streamlit |
+| **Highlights** | Document chunking & embedding pipeline, vector similarity search, low-latency inference via Groq |
+| **Repo** | [RAG-Document-Chatbot](https://github.com/syedsaud15/RAG-Document-Chatbot) |
+
+</details>
+
+<details>
+<summary><b>📊 FMCG Sales Analytics on Databricks</b></summary>
+<br/>
+
+> Medallion-architecture analytics pipeline with a business-facing dashboard.
+
+| | |
+|---|---|
+| **Stack** | Databricks SQL · Genie AI · Dashboards |
+| **Highlights** | Bronze/Silver/Gold layering, KPI dashboards, natural-language querying via Genie |
+| **Repo** | [FMCG-Sales-Analytics-Databricks](https://github.com/syedsaud15/FMCG-Sales-Analytics-Databricks) |
+
+</details>
+
+<details>
+<summary><b>❄️ Snowflake Data Warehouse Projects</b></summary>
+<br/>
+
+> Data warehousing fundamentals — modeling, loading, and querying at scale on Snowflake.
+
+| | |
+|---|---|
+| **Stack** | Snowflake · SQL |
+| **Highlights** | Warehouse design, staged data loading, performance-tuned SQL |
+| **Repo** | [snowflake-projects](https://github.com/syedsaud15/snowflake-projects) |
+
+</details>
+
+<details>
+<summary><b>🛍️ Luxe Thread E-Commerce Platform</b></summary>
+<br/>
+
+> Full-stack e-commerce application, built to understand the application layer that sits on top of the data.
+
+| | |
+|---|---|
+| **Stack** | Next.js · Node.js · Express · REST API |
+| **Highlights** | Product catalog, cart & checkout flow, REST API backend |
+| **Repo** | [luxe-thread-ecommerce](https://github.com/syedsaud15/luxe-thread-ecommerce) |
+
+</details>
+
+<br/>
+
+## Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=syedsaud15&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=syedsaud15&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedsaud15&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-profile-trophy.vercel.app/?username=syedsaud15&theme=tokyonight&no-frame=true&row=1&column=6" height="100"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=syedsaud15&theme=tokyo-night&hide_border=true&area=true"/>
+</div>
+
+<br/>
+
+## Get in Touch
+
+<div align="center">
+
+Open to **Data Engineer / Analytics Engineer** opportunities — reach out if there's a fit.
+
+<a href="mailto:saudhere15@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/syed-saud-alam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://syedsaud15.github.io/syed-saud-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+
+</div>
