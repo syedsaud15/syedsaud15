@@ -1,15 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Syed%20Saud%20Alam&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Building%20Scalable%20Data%20Platforms&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Syed%20Saud%20Alam&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Building%20Scalable%20Data%20Platforms&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/syed-saud-alam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://syedsaud15.github.io/syed-saud-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="mailto:saudhere15@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=syedsaud15&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=2C97F1&center=true&vCenter=true&width=650&lines=Designing+end-to-end+ETL%2FELT+pipelines;Building+Lakehouse+architectures+on+Databricks;Orchestrating+workflows+with+Apache+Airflow;Turning+raw+data+into+production-grade+systems"/>
+<i>Designing end-to-end ETL/ELT pipelines · Building Lakehouse architectures on Databricks · Orchestrating workflows with Apache Airflow</i>
 
 </div>
 
@@ -213,8 +212,6 @@ status: Open to Data Engineering / Analytics Engineering roles
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedsaud15&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
-
-> **Note:** Language and trophy widgets were dropped from this version — the third-party services that generate them (vercel/heroku-hosted) go down or time out often enough that they were showing up as broken image icons. Two reliable widgets on a recruiter-facing profile beat five flaky ones.
 
 <br/>
 
