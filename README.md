@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header.gif" alt="Syed Saud Alam engineering console: animated SA particle monogram; Python, SQL, Spark, AWS, Databricks and Snowflake. Ingest, transform, validate, model, serve." width="100%" />
+  <img src="assets/profile-header.gif" alt="Syed Saud Alam — Engineering data. Building useful things. Animated conceptual workflow: source, process, validate, model, serve." width="100%" />
 </p>
 
 <p align="center">
@@ -18,13 +18,17 @@
 
 ## Turning raw data into useful products
 
-I'm **Syed Saud Alam**, a Data Engineer building a project portfolio across cloud data pipelines, analytics and AI-enabled applications.
+I'm **Syed Saud Alam**, a **Data Engineer** building hands-on projects across cloud data pipelines, analytics engineering and AI-enabled applications.
 
-My work connects **data ingestion, transformation and modeling** with the dashboards and applications that make the results useful. I work with Python and SQL, explore modern platforms such as Databricks and Snowflake, and document the decisions behind each project.
+My foundation is **Python and SQL**, with practical work in **PySpark, Databricks, Airflow, AWS, Azure and Snowflake**. I'm continuing a project-based data engineering course while expanding my portfolio.
 
-**What I care about:** understandable data flows, testable transformations, explicit limitations and useful outcomes—not just a long list of tools.
+My work connects **data ingestion, transformation and modeling** with dashboards and applications. My focus: understandable data flows, testable transformations and documented decisions.
 
 ## Selected work
+
+<a href="https://github.com/syedsaud15/Data-Engineering-Pipeline"><img src="assets/project-pipeline.png" width="100%" alt="Data Engineering Pipeline — portfolio work covering ingestion, PySpark, Airflow and SQL analytics." /></a>
+
+**[Data Engineering Pipeline](https://github.com/syedsaud15/Data-Engineering-Pipeline)** — portfolio work organized around ingestion, processing, orchestration and analytics. See repository code and documentation for implementation details.
 
 <p>
   <a href="https://github.com/syedsaud15/FMCG-Sales-Analytics-Databricks"><img src="assets/project-fmcg.png" width="49%" alt="FMCG Sales Analytics — business dashboards using Databricks SQL, Dashboards and Genie. Explore repository." /></a>
@@ -77,6 +81,9 @@ Applied AI projects also use **LangChain, ChromaDB and retrieval-augmented gener
 
 ## How I approach a build
 
+<details>
+<summary><strong>Open engineering notes — process, principles and current focus</strong></summary>
+
 **Define the question → understand the source → transform and validate → model → serve → document.**
 
 - Start with the intended consumer and the question the data must answer.
@@ -85,9 +92,17 @@ Applied AI projects also use **LangChain, ChromaDB and retrieval-augmented gener
 - Document setup, trade-offs and recovery steps alongside the code.
 - Treat a working demo as a milestone—not proof of unlimited scale or reliability.
 
-## Continuing to deepen
+## Learning foundation & ongoing development
+
+My ongoing data engineering training includes completed practical modules in **SQL, Python, Databricks, Airflow, AWS, Azure, Snowflake and PySpark**. SQL exercises include window functions, stored procedures and triggers.
+
+Additional study includes **Hive and Sqoop theory**, **data governance** and **data architecture**. Training completion is separate from professional experience and certifications.
+
+Additional repositories: [Airflow projects](https://github.com/syedsaud15/airflow-projects) · [AWS Medallion Pipeline](https://github.com/syedsaud15/aws-medallion-data-pipeline).
 
 Data modeling, Spark transformations, warehouse testing and dependable cloud workflows are my continuing focus. I also explore where AI assistance adds value without replacing clear data contracts and human review.
+
+</details>
 
 ## Explore & connect
 
