@@ -3,10 +3,11 @@
 </p>
 
 <p align="center">
-  <strong>Python & SQL · Cloud data pipelines · Analytics engineering · Applied AI</strong>
+  <strong>Data Engineer · Python & SQL · Cloud Data Pipelines · Analytics Engineering</strong>
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/syed-saud-dev/">LinkedIn ↗</a> &nbsp; / &nbsp;
   <a href="https://syedsaud15.github.io/syed-saud-portfolio/">Portfolio ↗</a> &nbsp; / &nbsp;
   <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
   <a href="https://jarvis-career-os.onrender.com/demo">JARVIS live demo ↗</a>
@@ -16,13 +17,15 @@
 
 <p align="center"><sub><a href="assets/profile-header.png">View static header</a> · Data engineering / Analytics / Applied AI</sub></p>
 
-## Turning raw data into useful products
+## Hi, I'm Syed Saud Alam
 
 I'm **Syed Saud Alam**, a **Data Engineer** building hands-on projects across cloud data pipelines, analytics engineering and AI-enabled applications.
 
-My foundation is **Python and SQL**, with practical work in **PySpark, Databricks, Airflow, AWS, Azure and Snowflake**. I'm continuing a project-based data engineering course while expanding my portfolio.
+My foundation is **Python and SQL**, with practical work in **PySpark, Databricks, Airflow, AWS, Azure and Snowflake**. I'm continuing project-based data engineering training while strengthening my end-to-end implementation skills.
 
 My work connects **data ingestion, transformation and modeling** with dashboards and applications. My focus: understandable data flows, testable transformations and documented decisions.
+
+**Interested in data engineering and analytics engineering opportunities. [Connect with me on LinkedIn →](https://www.linkedin.com/in/syed-saud-dev/)**
 
 ## Selected work
 
@@ -41,7 +44,7 @@ My work connects **data ingestion, transformation and modeling** with dashboards
 
 **Browse:** [Databricks analytics](https://github.com/syedsaud15/FMCG-Sales-Analytics-Databricks) · [AWS pipeline](https://github.com/syedsaud15/aws-end-to-end-data-engineering-project) · [Snowflake + dbt](https://github.com/syedsaud15/snowflake-dbt-data-engineering) · [RAG chatbot](https://github.com/syedsaud15/RAG-Document-Chatbot)
 
-These are portfolio projects. Repository documentation describes each project's implementation and scope; the technologies above are not claims of commercial deployment experience.
+These are personal and training projects; each repository documents its implementation and scope.
 
 ### Spotlight / JARVIS Career OS
 
@@ -53,7 +56,7 @@ A full-stack career workspace that brings discovery, preparation and application
 - **User control:** explicit approval before Gmail or Calendar actions in the protected workspace.
 - **Data boundaries:** a synthetic, read-only public demo separate from private career APIs.
 - **Verification:** backend tests, frontend lint/build, browser workflows and container access checks in CI.
-- **Recovery:** versioned career-data exports and restore into a separate local database.
+- **Data portability:** career-data exports for private backups.
 
 **[Explore the public demo →](https://jarvis-career-os.onrender.com/demo)**
 
@@ -92,11 +95,11 @@ Applied AI projects also use **LangChain, ChromaDB and retrieval-augmented gener
 - Document setup, trade-offs and recovery steps alongside the code.
 - Treat a working demo as a milestone—not proof of unlimited scale or reliability.
 
-## Learning foundation & ongoing development
+### Learning foundation & ongoing development
 
 My ongoing data engineering training includes completed practical modules in **SQL, Python, Databricks, Airflow, AWS, Azure, Snowflake and PySpark**. SQL exercises include window functions, stored procedures and triggers.
 
-Additional study includes **Hive and Sqoop theory**, **data governance** and **data architecture**. Training completion is separate from professional experience and certifications.
+Additional study includes **Hive and Sqoop theory**, **data governance** and **data architecture**. My training is ongoing.
 
 Additional repositories: [Airflow projects](https://github.com/syedsaud15/airflow-projects) · [AWS Medallion Pipeline](https://github.com/syedsaud15/aws-medallion-data-pipeline).
 
@@ -106,7 +109,7 @@ Data modeling, Spark transformations, warehouse testing and dependable cloud wor
 
 ## Explore & connect
 
-**[Portfolio](https://syedsaud15.github.io/syed-saud-portfolio/)** · **[Public repositories](https://github.com/syedsaud15?tab=repositories)** · **[Interactive project demo](https://jarvis-career-os.onrender.com/demo)**
+**[LinkedIn](https://www.linkedin.com/in/syed-saud-dev/)** · **[Portfolio](https://syedsaud15.github.io/syed-saud-portfolio/)** · **[Public repositories](https://github.com/syedsaud15?tab=repositories)** · **[JARVIS demo](https://jarvis-career-os.onrender.com/demo)**
 
 I welcome conversations about data engineering, analytics engineering and building useful applications around data.
 
