@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header.gif" alt="Syed Saud Alam — Data Engineering, Analytics and Applied AI. Ingest, transform, validate, model, serve." width="100%" />
+  <img src="assets/profile-header.gif" alt="Syed Saud Alam engineering console: animated SA particle monogram; Python, SQL, Spark, AWS, Databricks and Snowflake. Ingest, transform, validate, model, serve." width="100%" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ---
 
-<p align="center"><sub>A brief data-flow animation, then a still frame. <a href="assets/profile-header.png">View static header</a></sub></p>
+<p align="center"><sub><a href="assets/profile-header.png">View static header</a> · Data engineering / Analytics / Applied AI</sub></p>
 
 ## Turning raw data into useful products
 
