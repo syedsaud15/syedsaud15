@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Syed Saud Alam — Data Engineering</title>
+  <desc id="desc">Navy and teal engineering banner with a source-to-insight data flow.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1727"/><stop offset="1" stop-color="#183548"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#58ded0"/><stop offset="1" stop-color="#8295f6"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#a4cad9" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+  <path d="M56 51H114" stroke="#58ded0" stroke-width="4"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="56" y="87" font-size="14" letter-spacing="3" font-weight="600" fill="#8ce8de">DATA ENGINEERING / ANALYTICS / APPLIED AI</text>
+    <text x="52" y="155" font-size="57" font-weight="700" fill="#f5f9ff">Syed Saud Alam</text>
+    <text x="56" y="198" font-size="23" fill="#b8cddd">From raw data to useful products.</text>
+    <text x="56" y="289" font-size="15" letter-spacing="1" fill="#b8cddd">PYTHON + SQL   /   CLOUD PIPELINES   /   ANALYTICS</text>
+    <g transform="translate(800 77)">
+      <path d="M24 35H105V101H186V167H267" fill="none" stroke="url(#accent)" stroke-width="3"/>
+      <g fill="#142c3e" stroke="#60cfc9" stroke-width="2">
+        <rect x="0" y="10" width="50" height="50" rx="12"/>
+        <rect x="80" y="76" width="50" height="50" rx="12"/>
+        <rect x="162" y="142" width="50" height="50" rx="12"/>
+      </g>
+      <g fill="#d4f6f3" font-size="18" text-anchor="middle" font-weight="600"><text x="25" y="42">01</text><text x="105" y="108">02</text><text x="187" y="174">03</text></g>
+      <g fill="#b8cddd" font-size="12" letter-spacing="1"><text x="62" y="28">INGEST</text><text x="144" y="94">TRANSFORM</text><text x="227" y="160">SERVE</text></g>
+    </g>
+  </g>
+</svg>
