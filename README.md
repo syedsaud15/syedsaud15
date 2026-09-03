@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/syed-saud-dev/">LinkedIn ↗</a> &nbsp; / &nbsp;
-  <a href="https://syedsaud15.github.io/syed-saud-portfolio/">Portfolio ↗</a> &nbsp; / &nbsp;
-  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
-  <a href="https://jarvis-career-os.onrender.com/demo">JARVIS live demo ↗</a>
+  <a href="https://www.linkedin.com/in/syed-saud-dev/"><img src="assets/linkedin-connect.svg" height="32" alt="LinkedIn — connect with Syed Saud Alam" /></a>
+  <a href="https://syedsaud15.github.io/syed-saud-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Explore-7654C5?style=for-the-badge" height="32" alt="Explore my portfolio" /></a>
+  <a href="https://github.com/syedsaud15?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" height="32" alt="Browse my GitHub projects" /></a>
+  <a href="https://jarvis-career-os.onrender.com/demo"><img src="https://img.shields.io/badge/JARVIS-Live_Demo-16856B?style=for-the-badge" height="32" alt="Explore the JARVIS public demo" /></a>
 </p>
 
 ---
@@ -64,21 +64,39 @@ A full-stack career workspace that brings discovery, preparation and application
 
 ## Technology focus
 
+Click any technology badge to explore its official website or documentation.
+
 **Languages & processing**
 
-<img src="assets/stack-data.png" width="100%" alt="Python, SQL, Spark, PySpark" />
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)](https://www.postgresql.org/docs/current/sql.html)
+[![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-**Cloud & analytics platforms**
+**Cloud, orchestration & analytics**
 
-<img src="assets/stack-platforms.png" width="100%" alt="AWS, Databricks, Snowflake, dbt" />
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)](https://aws.amazon.com/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)](https://azure.microsoft.com/)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/)
+[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://www.snowflake.com/)
+[![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
+[![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)](https://www.getdbt.com/)
 
-**Applications & persistence**
+**Applications & AI**
 
-<img src="assets/stack-applications.png" width="100%" alt="FastAPI, React, PostgreSQL, Streamlit" />
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-7654C5?style=for-the-badge)](https://www.trychroma.com/)
 
 **Delivery & engineering workflow**
 
-<img src="assets/stack-delivery.png" width="100%" alt="Git, GitHub Actions, Docker, NGINX" />
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
 
 Applied AI projects also use **LangChain, ChromaDB and retrieval-augmented generation**. These groups describe tools used across projects, not a single architecture requiring every tool.
 
@@ -109,7 +127,9 @@ Data modeling, Spark transformations, warehouse testing and dependable cloud wor
 
 ## Explore & connect
 
-**[LinkedIn](https://www.linkedin.com/in/syed-saud-dev/)** · **[Portfolio](https://syedsaud15.github.io/syed-saud-portfolio/)** · **[Public repositories](https://github.com/syedsaud15?tab=repositories)** · **[JARVIS demo](https://jarvis-career-os.onrender.com/demo)**
+[![LinkedIn — connect](assets/linkedin-connect.svg)](https://www.linkedin.com/in/syed-saud-dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-7654C5?style=for-the-badge)](https://syedsaud15.github.io/syed-saud-portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syedsaud15?tab=repositories)
 
 I welcome conversations about data engineering, analytics engineering and building useful applications around data.
 
