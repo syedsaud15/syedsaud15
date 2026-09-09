@@ -21,7 +21,7 @@
 
 I'm **Syed Saud Alam**, a **Data Engineer** building hands-on projects across cloud data pipelines, analytics engineering and AI-enabled applications.
 
-My foundation is **Python and SQL**, with practical work in **PySpark, Databricks, Airflow, AWS, Azure and Snowflake**. I'm continuing project-based data engineering training while strengthening my end-to-end implementation skills.
+My foundation is **Python and SQL**, with project work in **PySpark, Databricks and AWS**, plus structured practice with **Airflow, Snowflake, dbt and Azure**. I'm continuing project-based data engineering training while strengthening my end-to-end implementation skills.
 
 My work connects **data ingestion, transformation and modeling** with dashboards and applications. My focus: understandable data flows, testable transformations and documented decisions.
 
@@ -29,22 +29,19 @@ My work connects **data ingestion, transformation and modeling** with dashboards
 
 ## Selected work
 
-<a href="https://github.com/syedsaud15/Data-Engineering-Pipeline"><img src="assets/project-pipeline.png" width="100%" alt="Data Engineering Pipeline — portfolio work covering ingestion, PySpark, Airflow and SQL analytics." /></a>
-
-**[Data Engineering Pipeline](https://github.com/syedsaud15/Data-Engineering-Pipeline)** — portfolio work organized around ingestion, processing, orchestration and analytics. See repository code and documentation for implementation details.
-
 <p>
-  <a href="https://github.com/syedsaud15/FMCG-Sales-Analytics-Databricks"><img src="assets/project-fmcg.png" width="49%" alt="FMCG Sales Analytics — business dashboards using Databricks SQL, Dashboards and Genie. Explore repository." /></a>
-  <a href="https://github.com/syedsaud15/aws-end-to-end-data-engineering-project"><img src="assets/project-aws.png" width="49%" alt="AWS Data Engineering — ingestion, processing and querying with S3, Glue and Athena. Explore repository." /></a>
-</p>
-<p>
-  <a href="https://github.com/syedsaud15/snowflake-dbt-data-engineering"><img src="assets/project-snowflake.png" width="49%" alt="Snowflake and dbt — SQL models, macros and tests. Explore repository." /></a>
   <a href="https://github.com/syedsaud15/RAG-Document-Chatbot"><img src="assets/project-rag.png" width="49%" alt="RAG Document Chatbot — retrieval and conversation with Python, LangChain and ChromaDB. Explore repository." /></a>
+  <a href="https://github.com/syedsaud15/FMCG-Sales-Analytics-Databricks"><img src="assets/project-fmcg.png" width="49%" alt="FMCG Sales Analytics — documented Databricks dashboard and Genie AI screenshots. Explore repository." /></a>
 </p>
 
-**Browse:** [Databricks analytics](https://github.com/syedsaud15/FMCG-Sales-Analytics-Databricks) · [AWS pipeline](https://github.com/syedsaud15/aws-end-to-end-data-engineering-project) · [Snowflake + dbt](https://github.com/syedsaud15/snowflake-dbt-data-engineering) · [RAG chatbot](https://github.com/syedsaud15/RAG-Document-Chatbot)
+- **[JARVIS Career OS](https://github.com/syedsaud15/jarvis-career-os)** — a tested FastAPI and React career workspace with PostgreSQL, Docker and a synthetic read-only demo.
+- **[RAG Document Chatbot](https://github.com/syedsaud15/RAG-Document-Chatbot)** — a document question-answering app built with Python, LangChain, ChromaDB and Streamlit.
+- **[Autonomous DataOps Pipeline](https://github.com/syedsaud15/autonomous-dataops-pipeline)** — an AI-assisted prototype that diagnoses pipeline failures and proposes remediations for human review.
+- **[FMCG Sales Analytics](https://github.com/syedsaud15/FMCG-Sales-Analytics-Databricks)** — a screenshot portfolio documenting Databricks SQL dashboards and Genie AI outputs; reproducible pipeline source is future work.
 
-These are personal and training projects; each repository documents its implementation and scope.
+Learning implementations: [AWS S3, Glue and Athena](https://github.com/syedsaud15/aws-end-to-end-data-engineering-project) · [Snowflake, dbt and Airflow](https://github.com/syedsaud15/snowflake-dbt-data-engineering)
+
+These are personal and training projects. Each repository states what is implemented, what is simulated and what remains future work.
 
 ### Spotlight / JARVIS Career OS
 
@@ -60,11 +57,11 @@ A full-stack career workspace that brings discovery, preparation and application
 
 **[Explore the public demo →](https://jarvis-career-os.onrender.com/demo)**
 
-<sub>The source repository is private. The demo contains sample data, not a public signup service or real user accounts.</sub>
+<sub>The [source repository is public](https://github.com/syedsaud15/jarvis-career-os). The demo contains synthetic sample data, not real user accounts.</sub>
 
-## Technology focus
+## Technology exposure
 
-Click any technology badge to explore its official website or documentation.
+These tools appear across implemented projects and structured learning; the badges do not imply production experience with every platform.
 
 **Languages & processing**
 
@@ -119,7 +116,7 @@ My ongoing data engineering training includes completed practical modules in **S
 
 Additional study includes **Hive and Sqoop theory**, **data governance** and **data architecture**. My training is ongoing.
 
-Additional repositories: [Airflow projects](https://github.com/syedsaud15/airflow-projects) · [AWS Medallion Pipeline](https://github.com/syedsaud15/aws-medallion-data-pipeline).
+Consolidated learning implementations: [AWS pipeline](https://github.com/syedsaud15/aws-end-to-end-data-engineering-project) · [Snowflake, dbt and Airflow](https://github.com/syedsaud15/snowflake-dbt-data-engineering).
 
 Data modeling, Spark transformations, warehouse testing and dependable cloud workflows are my continuing focus. I also explore where AI assistance adds value without replacing clear data contracts and human review.
 
